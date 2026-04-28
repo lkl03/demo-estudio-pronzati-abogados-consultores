@@ -1,2 +1,7 @@
-# demo-estudio-pronzati-abogados-consultores
-Demo web para Estudio Pronzati Abogados &amp; Consultores — diseñada por eterlab.
+# Estudio Pronzati Abogados & Consultores
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
